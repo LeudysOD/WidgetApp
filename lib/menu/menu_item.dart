@@ -27,5 +27,11 @@ ItemsMenu(title:'Buttons',
    subTitle:'Some button in flutter',
    link:'/progress',
    icon:Icons.refresh_rounded),
+   
+   ItemsMenu(title:'SnackBar',
+   subTitle:'Some button in flutter',
+   link:'/snackbar',
+   icon:Icons.refresh_rounded),
+
 
 ];
