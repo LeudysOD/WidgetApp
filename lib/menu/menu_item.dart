@@ -14,23 +14,13 @@ class ItemsMenu{
 }
 const appMenuItem = <ItemsMenu> [
 ItemsMenu(title:'Buttons',
- subTitle:'Some button in flutter',
-  link:'/buttons',
+   subTitle:'Some button in flutter',
+   link:'/buttons',
    icon:Icons.smart_button_outlined),
 
-   ItemsMenu(title:'Buttons',
- subTitle:'Some button in flutter',
-  link:'/buttons',
-   icon:Icons.smart_button_outlined),
-
-   ItemsMenu(title:'Buttons',
- subTitle:'Some button in flutter',
-  link:'/buttons',
-   icon:Icons.smart_button_outlined),
-
-   ItemsMenu(title:'Buttons',
- subTitle:'Some button in flutter',
-  link:'/buttons',
-   icon:Icons.smart_button_outlined)
+   ItemsMenu(title:'Cards',
+   subTitle:'Some button in flutter',
+   link:'/cards',
+   icon:Icons.card_giftcard),
 
 ];
