@@ -23,4 +23,9 @@ ItemsMenu(title:'Buttons',
    link:'/cards',
    icon:Icons.card_giftcard),
 
+  ItemsMenu(title:'ProgressIndicator',
+   subTitle:'Some button in flutter',
+   link:'/progress',
+   icon:Icons.refresh_rounded),
+
 ];
