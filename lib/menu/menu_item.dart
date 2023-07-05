@@ -31,7 +31,32 @@ ItemsMenu(title:'Buttons',
    ItemsMenu(title:'SnackBar',
    subTitle:'Some button in flutter',
    link:'/snackbar',
-   icon:Icons.refresh_rounded),
+   icon:Icons.info_outline),
+
+  ItemsMenu(title:'Statefull widget animated',
+   subTitle:'Some button in flutter',
+   link:'/animated',
+   icon:Icons.check_box_outlined),
+
+   
+  ItemsMenu(title:'UI Controls and Tiles',
+   subTitle:'Some button in flutter',
+   link:'/ui-controls',
+   icon:Icons.car_rental_outlined),
+
+  ItemsMenu(title:'On barding',
+   subTitle:'Some button in flutter',
+   link:'/tutorial',
+   icon:Icons.home),
+
+    ItemsMenu(title:'Infinite Scroll',
+   subTitle:'Some button in flutter',
+   link:'/infinite',
+   icon:Icons.list_alt_rounded),
+
+
+
+
 
 
 ];
